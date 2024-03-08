@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,500&family=Roboto+Condensed&display=swap');
+
+.about{
+    position: absolute;
+    top: 250px;
+    left: 250px;
+    text-align: center;
+}
+
+.about_text > p {
+    padding: 5px;
+    text-decoration: solid;
+}
+.about_button > a >p  {
+    font-family: "Montserrat",sans-serif;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: red; 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: 300;
+    
+}
+.about_button > a > p:hover {
+    
+    background-color: white;
+    font-weight: 600;
+    border-radius: 3px;
+    color: black;
+    border: 2px solid red;
+}

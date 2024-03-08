@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,500&family=Roboto+Condensed&display=swap');
+
+.topcontainer{
+    background-image:url(../../asset/laptop.jpg) ;
+    height: 100vh;
+    width: 222.3vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+   color: white;
+   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0,0.7);
+   font-family: "Montserrat",sans-serif;
+
+}
